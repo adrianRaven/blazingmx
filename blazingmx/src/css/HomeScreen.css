@@ -1,0 +1,16 @@
+.home__container {
+  background: rgb(24, 24, 24);
+  height: 100vh;
+}
+.logo__container {
+  text-align: center;
+}
+.logo__container img {
+  width: 6em;
+  margin-top: 8em;
+}
+.home__title {
+  color: rgb(241, 241, 241);
+  margin-top: 1em;
+  font-weight: 600;
+}
